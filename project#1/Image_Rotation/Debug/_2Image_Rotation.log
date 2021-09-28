@@ -1,0 +1,39 @@
+﻿  main.cpp
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(14,16): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(14,40): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(15,16): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(15,43): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(42,12): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(43,12): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(46,55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(46,31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(46,112): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(46,105): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(69,16): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(69,40): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(70,16): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(70,43): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(100,16): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(101,16): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(105,52): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(105,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(105,107): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(105,93): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(131,16): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(131,40): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(132,16): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(132,43): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(163,16): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(164,16): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(169,47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(169,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(170,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(170,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(171,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(171,32): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(172,45): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(172,32): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(177,15): warning C4244: '=': 'float'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(178,52): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Image_Rotation\main.cpp(178,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  _2Image_Rotation.vcxproj -> C:\Users\park3\park\Repository\21_2_Computer_Vision\project#1\Debug\Image_Rotation.exe
